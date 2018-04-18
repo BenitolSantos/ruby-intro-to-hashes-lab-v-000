@@ -13,6 +13,7 @@ def monopoly
 
 end
 
+#always remember to comma between nested hashes!
 def monopoly_with_second_tier
 	monopoly = {
 		:railroads => {
